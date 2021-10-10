@@ -1,0 +1,25 @@
+name: TechTrends
+
+on:
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+        uses: actions/checkout@v2
+
+      - name: login docker
+        uses: docker/login-action@v1
+        with:
+          username: tientuaug16
+          password: 8d9ecf15-6ceb-4b7d-9c84-63a0507173c6
+
+      - name: Build and push
+        uses: docker/build-push-action@v2
+        with:
+          push: true
+          tags: tientuaug16/techtrends:latest
