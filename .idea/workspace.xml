@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c610afdd-4a89-4fd1-bda9-5bfe145218b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docker_commands" beforeDir="false" afterPath="$PROJECT_DIR$/docker_commands" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/techtrends/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/techtrends/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +32,12 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1z02WtFstHgRVNbXjeTbILKOlT5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,11 +45,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/screenshots" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots" />
+      <recent name="$PROJECT_DIR$/ci-github-actions" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/screenshots" />
     </key>
@@ -62,6 +75,9 @@
       <updated>1633270719940</updated>
       <workItem from="1633270720991" duration="1270000" />
       <workItem from="1633272677766" duration="1376000" />
+      <workItem from="1633873977748" duration="8659000" />
+      <workItem from="1634483712401" duration="3407000" />
+      <workItem from="1634572033946" duration="597000" />
     </task>
     <servers />
   </component>
@@ -79,5 +95,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="608" y="366" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633886441291">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="608" y="366" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1633886441291" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1633881931723">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1792.1120@0.0.1792.1120" timestamp="1633881931723" />
   </component>
 </project>
